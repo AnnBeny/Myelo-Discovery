@@ -1,0 +1,59 @@
+788 29 11
+0 chr13 chr13:28589665..28589685 (+ strand) class=primer_bind length=21
+0 21 0
+0 chr13 chr13:28589846..28589876 (- strand) class=primer_bind length=31
+21 31 0
+0 chr13 chr13:28592521..28592545 (+ strand) class=primer_bind length=25
+52 25 0
+0 chr13 chr13:28592733..28592764 (- strand) class=primer_bind length=32
+77 32 0
+0 chr13 chr13:28597331..28597353 (+ strand) class=primer_bind length=23
+109 23 0
+0 chr13 chr13:28597623..28597646 (- strand) class=primer_bind length=24
+132 24 0
+0 chr13 chr13:28601181..28601212 (+ strand) class=primer_bind length=32
+156 32 0
+0 chr13 chr13:28601441..28601468 (- strand) class=primer_bind length=28
+188 28 0
+0 chr13 chr13:28602175..28602200 (+ strand) class=primer_bind length=26
+216 26 0
+0 chr13 chr13:28602498..28602523 (- strand) class=primer_bind length=26
+242 26 0
+0 chr13 chr13:28607990..28608015 (+ strand) class=primer_bind length=26
+268 26 0
+0 chr13 chr13:28608038..28608059 (+ strand) class=primer_bind length=22
+294 22 0
+0 chr13 chr13:28608072..28608100 (- strand) class=primer_bind length=29
+316 29 0
+0 chr13 chr13:28608146..28608178 (+ strand) class=primer_bind length=33
+345 33 0
+0 chr13 chr13:28608200..28608226 (- strand) class=primer_bind length=27
+378 27 0
+0 chr13 chr13:28608286..28608312 (- strand) class=primer_bind length=27
+405 27 0
+0 chr13 chr13:28608355..28608387 (- strand) class=primer_bind length=33
+432 33 0
+0 chr13 chr13:28608374..28608399 (+ strand) class=primer_bind length=26
+465 26 0
+0 chr13 chr13:28608555..28608578 (- strand) class=primer_bind length=24
+491 24 0
+0 chr13 chr13:28609847..28609877 (- strand) class=primer_bind length=31
+515 31 0
+0 chr13 chr13:28610185..28610214 (- strand) class=primer_bind length=30
+546 30 0
+0 chr13 chr13:28611335..28611362 (+ strand) class=primer_bind length=28
+576 28 0
+0 chr13 chr13:28611386..28611409 (- strand) class=primer_bind length=24
+604 24 0
+0 chr13 chr13:28611454..28611478 (- strand) class=primer_bind length=25
+628 25 0
+0 chr13 chr13:28622325..28622355 (+ strand) class=primer_bind length=31
+653 31 0
+0 chr13 chr13:28622416..28622442 (+ strand) class=primer_bind length=27
+684 27 0
+0 chr13 chr13:28622683..28622703 (- strand) class=primer_bind length=21
+711 21 0
+0 chr13 chr13:28623457..28623482 (+ strand) class=primer_bind length=26
+732 26 0
+0 chr13 chr13:28623954..28623983 (- strand) class=primer_bind length=30
+758 30 0

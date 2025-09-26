@@ -1,0 +1,86 @@
+>chr13 chr13:28589665..28589685 (+ strand) class=primer_bind length=21
+CACCGAGAGAGCAGAGGATGC
+
+>chr13 chr13:28589846..28589876 (- strand) class=primer_bind length=31
+GAAAATTCACCATCTTATCTCCTCTGGGTTT
+
+>chr13 chr13:28592521..28592545 (+ strand) class=primer_bind length=25
+CCACAGTGAGTGCAGTTGTTTACCA
+
+>chr13 chr13:28592733..28592764 (- strand) class=primer_bind length=32
+CATCACAGTAAATAACACTCTGGTGTCATTCT
+
+>chr13 chr13:28597331..28597353 (+ strand) class=primer_bind length=23
+CCAAGAGCCAAGGTAACACGCTA
+
+>chr13 chr13:28597623..28597646 (- strand) class=primer_bind length=24
+TGGCAAAAGTGAAGACTGGCTCTA
+
+>chr13 chr13:28601181..28601212 (+ strand) class=primer_bind length=32
+CGTTCTATGATGTGTAATTACGAAACCCTGAC
+
+>chr13 chr13:28601441..28601468 (- strand) class=primer_bind length=28
+CCCTCCTAAGAGTATGTTGTCTGCTACA
+
+>chr13 chr13:28602175..28602200 (+ strand) class=primer_bind length=26
+CACTTGGGTTTGAGAGTTCACACTGT
+
+>chr13 chr13:28602498..28602523 (- strand) class=primer_bind length=26
+AATGCAGATTGACTCTGAGCTGAGAA
+
+>chr13 chr13:28607990..28608015 (+ strand) class=primer_bind length=26
+GCATCTTTGTTGCTGTCCTTCCACTA
+
+>chr13 chr13:28608038..28608059 (+ strand) class=primer_bind length=22
+ACGGCAACCTGGATTGAGACTC
+
+>chr13 chr13:28608072..28608100 (- strand) class=primer_bind length=29
+AAAAGTGATGAACGCAACAGCTTATGGAA
+
+>chr13 chr13:28608146..28608178 (+ strand) class=primer_bind length=33
+GAGTACGTGCATTTTAAAGATTTTCCAATGGAA
+
+>chr13 chr13:28608200..28608226 (- strand) class=primer_bind length=27
+AGAGTTTGGTAAGAATGGAATGTGCCA
+
+>chr13 chr13:28608286..28608312 (- strand) class=primer_bind length=27
+ACCGGCTCCTCAGATAATGAGTACTTC
+
+>chr13 chr13:28608355..28608387 (- strand) class=primer_bind length=33
+CCTATTCCTAACTGACTCATCATTTCATCTCTG
+
+>chr13 chr13:28608374..28608399 (+ strand) class=primer_bind length=26
+CAGTTAGGAATAGGCAGTTCTGCAGA
+
+>chr13 chr13:28608555..28608578 (- strand) class=primer_bind length=24
+TGTTTCATCGCTGAGTGACACTCT
+
+>chr13 chr13:28609847..28609877 (- strand) class=primer_bind length=31
+CAGAAATCCTAACTTCCAATCTGATGACAGC
+
+>chr13 chr13:28610185..28610214 (- strand) class=primer_bind length=30
+ccAGTGAGCTTATTTCACACGTTCTTTTCT
+
+>chr13 chr13:28611335..28611362 (+ strand) class=primer_bind length=28
+CGTGAACATTTTGGTAAATTGGGCATCA
+
+>chr13 chr13:28611386..28611409 (- strand) class=primer_bind length=24
+AATCATAAGCACCAGCCAGGAGAA
+
+>chr13 chr13:28611454..28611478 (- strand) class=primer_bind length=25
+AGCATCTCCTGTAGCAATTGGGCTA
+
+>chr13 chr13:28622325..28622355 (+ strand) class=primer_bind length=31
+CCATAAGTATAAAACTGTCCTTCTCAAGGGC
+
+>chr13 chr13:28622416..28622442 (+ strand) class=primer_bind length=27
+ATCCGTTATCAAGACCCTTTTGCTCAC
+
+>chr13 chr13:28622683..28622703 (- strand) class=primer_bind length=21
+GCAGCATGCCAACACTTGAGT
+
+>chr13 chr13:28623457..28623482 (+ strand) class=primer_bind length=26
+CTTCACATTCCACACTACAGCGACTA
+
+>chr13 chr13:28623954..28623983 (- strand) class=primer_bind length=30
+TGTTCAGGATATCTTTTGTGATGAGGCAAA
